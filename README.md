@@ -21,14 +21,14 @@
 
 | Screenshot | Caption |
 |------------|---------|
-| ![Placeholder 1]([https://your-image-url-here.png](https://images.gamebanana.com/img/ss/mods/6740d4a4224b2.jpg)) | *Thumbnail New* |
-| ![Placeholder 2]([https://your-image-url-here.png](https://images.gamebanana.com/img/ss/mods/67fff1d993d42.jpg)) | *The menu is back, and works just the same as before!* |
-| ![Placeholder 3]([https://your-image-url-here.png](https://images.gamebanana.com/img/ss/mods/661e67263bd59.jpg)) | *(Old) Thumbnail* |
-| ![Placeholder 4]([https://your-image-url-here.png](https://images.gamebanana.com/img/ss/mods/6744b4e427eb1.jpg)) | *Avatar Editor from 2016!* |
+| ![Placeholder 1](https://images.gamebanana.com/img/ss/mods/6744b4e427eb1.jpg) | *Thumbnail New* |
+| ![Placeholder 2](https://images.gamebanana.com/img/ss/mods/67fff1d993d42.jpg) | *The menu is back, and works just the same as before!* |
+| ![Placeholder 3](https://images.gamebanana.com/img/ss/mods/661e67263bd59.jpg) | *(Old) Thumbnail* |
+| ![Placeholder 4](https://images.gamebanana.com/img/ss/mods/6744b4e427eb1.jpg) | *Avatar Editor from 2016!* |
 
 ---
 
 ### 🔍 SEO Keywords
-RolDBlox offline activation, RolDBlox 2016 Mod setup assistant, full version enabled, no login needed, air-gapped install, enterprise deployment, RolDBlox unlock
+Roldblox Mod, roblox mod, RolDBlox activation, Roldblox 2016 Mod, full version, RolDBlox unlock
 
 
