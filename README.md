@@ -21,10 +21,10 @@
 
 | Screenshot | Caption |
 |------------|---------|
-| ![Placeholder 1](https://your-image-url-here.png) | *Home screen with classic 2016 layout* |
-| ![Placeholder 2](https://your-image-url-here.png) | *Offline server running in LAN mode* |
-| ![Placeholder 3](https://your-image-url-here.png) | *Studio plugin panel unlocked* |
-| ![Placeholder 4](https://your-image-url-here.png) | *In-game settings showing unlocked options* |
+| ![Placeholder 1]([https://your-image-url-here.png](https://images.gamebanana.com/img/ss/mods/6740d4a4224b2.jpg)) | *Thumbnail New* |
+| ![Placeholder 2]([https://your-image-url-here.png](https://images.gamebanana.com/img/ss/mods/67fff1d993d42.jpg)) | *The menu is back, and works just the same as before!* |
+| ![Placeholder 3]([https://your-image-url-here.png](https://images.gamebanana.com/img/ss/mods/661e67263bd59.jpg)) | *(Old) Thumbnail* |
+| ![Placeholder 4]([https://your-image-url-here.png](https://images.gamebanana.com/img/ss/mods/6744b4e427eb1.jpg)) | *Avatar Editor from 2016!* |
 
 ---
 
